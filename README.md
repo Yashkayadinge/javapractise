@@ -1,0 +1,2 @@
+# javapractise
+javacore concepts
